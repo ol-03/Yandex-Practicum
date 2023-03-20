@@ -12,5 +12,6 @@
 | [Дашборд для Яндекс.Дзен](https://github.com/ol-03/Yandex-Practicum/tree/main/Дашборд%20для%20Яндекс.Дзен) | Создание дашборда для пользовательского взаимодействия с карточками статей в Яндекс.Дзене.| *pandas, create_engine* |
 | [Определение неэффективных операторов](https://github.com/ol-03/Yandex-Practicum/tree/main/Телеком%20—%20Определение%20неэффективных%20операторов) | Поиск самых неэффективных операторов по признакам| *pandas, pyplot, seaborn, stats* |
 | [Результаты AB-тестирования](https://github.com/ol-03/Yandex-Practicum/tree/main/Результаты%20AB-тестирования) | Провести оценку результатов A/B-теста.| *pandas, pyplot, stats, math* |
+| [SQL](https://github.com/ol-03/Yandex-Practicum/tree/main/SQL) | Проанализировать базу данных, для формулировки ценностного предложения для нового продукта. | *pandas, create_engine* |
 
 
